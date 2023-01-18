@@ -13,4 +13,4 @@
         <?= $data['rows']; ?>
     </tbody>
 </table>
-<p><a href="<?= URLROOT; ?>/landingpages/index">back to landingpage</a></p>
+<p><a href="<?= URLROOT; ?>/landingpages/index">Back to landingpage</a></p>
